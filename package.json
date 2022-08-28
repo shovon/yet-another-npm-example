@@ -1,22 +1,22 @@
 {
-  "name": "@shovon/yet-another-npm-example",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "exit 0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/shovon/yet-another-npm-example.git"
-  },
-  "publishConfig": {
-    "@shovon:registry": "https://npm.pkg.github.com"
-  },
-  "author": "",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/shovon/yet-another-npm-example/issues"
-  },
-  "homepage": "https://github.com/shovon/yet-another-npm-example#readme"
+	"name": "@shovon/yet-another-npm-example",
+	"version": "1.0.1",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "exit 0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/shovon/yet-another-npm-example.git"
+	},
+	"publishConfig": {
+		"@shovon:registry": "https://npm.pkg.github.com"
+	},
+	"author": "",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/shovon/yet-another-npm-example/issues"
+	},
+	"homepage": "https://github.com/shovon/yet-another-npm-example#readme"
 }
